@@ -1,0 +1,44 @@
+# XFCE Themerc for Wambax
+
+
+# set by user
+#title_alignment=center
+# button_layout is set by user
+# O = Option menu
+# T = Stick
+# H = hide
+# S = shade
+# M = maximize
+# C = close
+# | = title
+#button_layout=O|HSMTC
+# title_font=DejaVu Sans Bold 10
+
+
+borderless_maximize=true
+
+shadow_opacity=50
+shadow_delta_height=9
+shadow_delta_width=9
+shadow_delta_x=-9
+shadow_delta_y=-9
+
+full_width_title=true
+title_horizontal_offset=0
+title_vertical_offset_active=4
+title_vertical_offset_inactive=4
+title_shadow_active=frame
+title_shadow_inactive=true
+
+# false parceque les icons des apps ne sont pas bien resize
+show_app_icon=false
+
+button_offset=0
+button_spacing=0
+maximized_offset=0
+
+active_text_color=#f0f0f0
+active_text_shadow_color=#a0a0a0
+inactive_text_color=#404040
+inactive_text_shadow_color=#808080
+
